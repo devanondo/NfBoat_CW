@@ -1,8 +1,8 @@
 # Getting Start with React static application NFBoat
 
-This project was Hosted on this domain:
+## This project was Hosted on this domain:
 
-## URL: (https://roaring-chimera-5ee6fa.netlify.app)
+### URL: (https://roaring-chimera-5ee6fa.netlify.app)
 
 ### All paths here\_\_\_
 
